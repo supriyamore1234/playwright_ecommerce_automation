@@ -1,6 +1,6 @@
-<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="13.649332999999999">
-<testsuite name="HomePageTest.spec.js" timestamp="2025-11-20T07:17:26.999Z" hostname="chromium" tests="1" failures="0" skipped="0" time="11.814" errors="0">
-<testcase name="Items Details Information" classname="HomePageTest.spec.js" time="11.814">
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="13.777708">
+<testsuite name="HomePageTest.spec.js" timestamp="2025-11-20T07:47:19.701Z" hostname="chromium" tests="1" failures="0" skipped="0" time="11.626" errors="0">
+<testcase name="Items Details Test" classname="HomePageTest.spec.js" time="11.626">
 <system-out>
 <![CDATA[After login url is https://www.saucedemo.com/inventory.html
 Current URL: https://www.saucedemo.com/inventory.html
@@ -16,10 +16,6 @@ Item 6: Test.allTheThings() T-Shirt (Red)
 Add to cart count: [33m1[39m
 ]]>
 </system-out>
-</testcase>
-</testsuite>
-<testsuite name="PRoductsDetails.spec.js" timestamp="2025-11-20T07:17:26.999Z" hostname="chromium" tests="1" failures="0" skipped="0" time="0.658" errors="0">
-<testcase name="Products Details Page" classname="PRoductsDetails.spec.js" time="0.658">
 </testcase>
 </testsuite>
 </testsuites>
