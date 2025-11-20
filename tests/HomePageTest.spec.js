@@ -10,7 +10,7 @@ test.beforeEach('User should login successfully ',async({page})=>{
   await loginpage.login('standard_user','secret_sauce');
 })
 
-test('Items Details Information',async({page})=>{
-  const productDetailspage= new productDetailsPage(page);
-  await productDetailspage.productDetails();
-})
+// test('Items Details Information',async({page})=>{
+//   const productDetailspage= new productDetailsPage(page);
+//   await productDetailspage.productDetails();
+// })

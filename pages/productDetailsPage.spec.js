@@ -9,10 +9,7 @@ exports.productDetailsPage=class productDetailsPage{
 
   //Actions
   async productDetails(){
-  this.page.on('dialog', async dialog => {
-    console.log(`Dialog message: ${dialog.message()}`);
-    await dialog.dismiss();
-  });
+  
   console.log("Current URL:", this.page.url());
 const html = await this.page.content();
 console.log("Page HTML length:", html.length);
