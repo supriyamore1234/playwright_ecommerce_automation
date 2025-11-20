@@ -1,0 +1,25 @@
+<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="13.649332999999999">
+<testsuite name="HomePageTest.spec.js" timestamp="2025-11-20T07:17:26.999Z" hostname="chromium" tests="1" failures="0" skipped="0" time="11.814" errors="0">
+<testcase name="Items Details Information" classname="HomePageTest.spec.js" time="11.814">
+<system-out>
+<![CDATA[After login url is https://www.saucedemo.com/inventory.html
+Current URL: https://www.saucedemo.com/inventory.html
+Page HTML length: [33m15309[39m
+[33mtrue[39m
+✅ Total items are: 6 There names are 
+Item 1: Sauce Labs Backpack
+Item 2: Sauce Labs Bike Light
+Item 3: Sauce Labs Bolt T-Shirt
+Item 4: Sauce Labs Fleece Jacket
+Item 5: Sauce Labs Onesie
+Item 6: Test.allTheThings() T-Shirt (Red)
+Add to cart count: [33m1[39m
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="PRoductsDetails.spec.js" timestamp="2025-11-20T07:17:26.999Z" hostname="chromium" tests="1" failures="0" skipped="0" time="0.658" errors="0">
+<testcase name="Products Details Page" classname="PRoductsDetails.spec.js" time="0.658">
+</testcase>
+</testsuite>
+</testsuites>
